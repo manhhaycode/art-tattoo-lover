@@ -1,6 +1,8 @@
 [submodule "art-tattoo-lover-be"]
 	path = art-tattoo-lover-be
 	url = https://github.com/hiamthach/art-tattoo-be.git
+	brach = main
 [submodule "art-tattoo-lover-fe"]
 	path = art-tattoo-lover-fe
 	url = https://github.com/manhhaycode/art-tattoo-lover-fe.git
+	brach = main
